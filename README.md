@@ -1,20 +1,20 @@
-# ExampleRepository
-An example repository with the necessary files each project should have.
-This includes:
-* Code Files
-* Schematics
-* PCB Designs
-* Photos of your device
-* 3D Models of enclosures and other parts
-* Data you collected with your device
+# Enclosures
+
+A repository dedicated to the research and design of electrical enclosures
 
 ## Features
 
-* List some features here that your project includes
-* This could be data outputs from it, math conversions that it does, etc
+There are many features/goals that make a good enclosure
 
-## Hardware
+* Waterproofing - Enclosures should be able to handle splashes from water, mud, and more
+* Heat Resistance - Enclosures should be able to handle exposure to direct sunlight and high temperatures
+* Durability - Enclosures should be able to handle vibrations and other impacts from driving
+* Acessibility - Enclosures should be able to be opened to access the electronics inside
 
-* List devices that your subsystem will use
-* Microcontrollers, sensors, etc
-* Every device will need a CAN-Bus and 5V voltage regulator, but this can happen towards the end of the design process
+# Connections
+
+* Most enclosures will have some kind of connections between the hardware inside and the rest of the vehicle
+* The main connections will mainly be made with [https://m.media-amazon.com/images/I/61v8dHQIpRL._AC_UF894,1000_QL80_.jpg](aviation plug connectors)
+* Ideally any other wires not going through the aviation plug connectors will be waterproofed using [https://www.metalcablegland.com/wp-content/uploads/2019/03/cable-glands-on-waterproof-enclosure.jpg](cable glands)
+* To keep any removable covers waterproof, [https://www.mcmaster.com/12975K32](o-ring material) can be used 
+
