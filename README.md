@@ -1,6 +1,6 @@
 # Enclosures
 
-A repository dedicated to the research and design of electrical enclosures
+## A repository dedicated to the research and design of electrical enclosures
 
 ## Features
 
