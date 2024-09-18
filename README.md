@@ -14,7 +14,7 @@ There are many features/goals that make a good enclosure
 ## Connections
 
 * Most enclosures will have some kind of connections between the hardware inside and the rest of the vehicle
-* The main connections will mainly be made with [https://m.media-amazon.com/images/I/61v8dHQIpRL._AC_UF894,1000_QL80_.jpg](aviation plug connectors)
-* Ideally any other wires not going through the aviation plug connectors will be waterproofed using [https://www.metalcablegland.com/wp-content/uploads/2019/03/cable-glands-on-waterproof-enclosure.jpg](cable glands)
-* To keep any removable covers waterproof, [https://www.mcmaster.com/12975K32](o-ring material) can be used 
+* The main connections will mainly be made with [aviation plug connectors](https://m.media-amazon.com/images/I/61v8dHQIpRL._AC_UF894,1000_QL80_.jpg)
+* Ideally any other wires not going through the aviation plug connectors will be waterproofed using [cable glands](https://www.metalcablegland.com/wp-content/uploads/2019/03/cable-glands-on-waterproof-enclosure.jpg)
+* To keep any removable covers waterproof, [o-ring material](https://www.mcmaster.com/12975K32) can be used 
 
