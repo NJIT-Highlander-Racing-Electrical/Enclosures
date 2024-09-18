@@ -11,7 +11,7 @@ There are many features/goals that make a good enclosure
 * Durability - Enclosures should be able to handle vibrations and other impacts from driving
 * Acessibility - Enclosures should be able to be opened to access the electronics inside
 
-# Connections
+## Connections
 
 * Most enclosures will have some kind of connections between the hardware inside and the rest of the vehicle
 * The main connections will mainly be made with [https://m.media-amazon.com/images/I/61v8dHQIpRL._AC_UF894,1000_QL80_.jpg](aviation plug connectors)
