@@ -1,10 +1,10 @@
 # Enclosures
 
-## A repository dedicated to the research and design of electrical enclosures
+A repository dedicated to the research and design of electrical enclosures
 
 ## Features
 
-There are many features/goals that make a good enclosure
+There are many features/goals that make a good enclosure: 
 
 * Waterproofing - Enclosures should be able to handle splashes from water, mud, and more
 * Heat Resistance - Enclosures should be able to handle exposure to direct sunlight and high temperatures
