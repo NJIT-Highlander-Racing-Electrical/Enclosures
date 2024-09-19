@@ -10,6 +10,8 @@ There are many features/goals that make a good enclosure:
 * Heat Resistance - Enclosures should be able to handle exposure to direct sunlight and high temperatures
 * Durability - Enclosures should be able to handle vibrations and other impacts from driving
 * Acessibility - Enclosures should be able to be opened to access the electronics inside
+* Compactness - Enclosures should be as compact and lightweight as possible
+* Mounting - Enclosures should have a simple method to mount to the vehicle
 
 ## Connections
 
